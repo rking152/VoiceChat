@@ -6,7 +6,7 @@ import os
 
 
 def init_speeh():
-    return (AipSpeech('11632774', 'S4HxGHZmDfIoGehDypNQDuoC', 'Nx4lVimhy3gaTxFE9G8hGSXF17ZKrlB0'),AipNlp('11632774', 'S4HxGHZmDfIoGehDypNQDuoC', 'Nx4lVimhy3gaTxFE9G8hGSXF17ZKrlB0'))
+    return (AipSpeech('ID', 'ID', 'ID'),AipNlp('ID', 'ID', 'ID'))
 
 
 def filetotxt(file_path):

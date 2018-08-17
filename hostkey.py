@@ -33,9 +33,9 @@ class Hotkey():
                         if text['err_msg'] == 'success.' and text['err_no'] == 0:
                             print(text['result'],'\n>>>',end='')
 
-                            userId = '308015'
+                            userId = 'ID'
                             inputText = {'text': str(text['result'])[2:-2]}
-                            key = '389db511305d444780a41bb92c72e87b'
+                            key = 'ID'
                             userInfo = {'apiKey': key, 'userId': userId}
                             perception = {'inputText': inputText}
                             data = {'perception': perception, 'userInfo': userInfo}
