@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8b69e7-a3f5-412c-9beb-9ee47b856bbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hostkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/hostkey.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,40 +56,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="99" />
+          <entry key="py" value="107" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="99" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="107" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
-                <marker date="1534517011928" expanded="true" signature="201:266" ph="..." />
-                <marker date="1534517011928" expanded="true" signature="277:544" ph="..." />
+                <marker date="1534517012612" expanded="true" signature="201:266" ph="..." />
+                <marker date="1534517012612" expanded="true" signature="277:540" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hostkey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+            <state relative-caret-position="358">
+              <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1534516704496" expanded="true" signature="357:358" ph="..." />
+                <marker date="1534517134382" expanded="true" signature="357:358" ph="..." />
               </folding>
             </state>
           </provider>
@@ -134,8 +135,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/record.py" />
-        <option value="$PROJECT_DIR$/hostkey.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/hostkey.py" />
       </list>
     </option>
   </component>
@@ -266,6 +267,14 @@
       <option name="presentableId" value="Default" />
       <updated>1533361796701</updated>
     </task>
+    <task id="LOCAL-00001" summary="22.43">
+      <created>1534517035411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534517035411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -317,6 +326,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22.43" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.43" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
@@ -371,25 +384,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hostkey.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="304">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1534516704496" expanded="true" signature="357:358" ph="..." />
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1534517012612" expanded="true" signature="201:266" ph="..." />
+            <marker date="1534517012612" expanded="true" signature="277:540" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/hostkey.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="358">
+          <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <marker date="1534517011928" expanded="true" signature="201:266" ph="..." />
-            <marker date="1534517011928" expanded="true" signature="277:544" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1534517134382" expanded="true" signature="357:358" ph="..." />
           </folding>
         </state>
       </provider>
