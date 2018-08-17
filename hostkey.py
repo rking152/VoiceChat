@@ -41,7 +41,7 @@ class Hotkey():
                             data = {'perception': perception, 'userInfo': userInfo}
 
                             url = 'http://openapi.tuling123.com/openapi/api/v2'
-                            response = requests.post(url=url, data=json.dumps(data))    
+                            response = requests.post(url=url, data=json.dumps(data))
                             print(response.text)
                             response.encoding = 'utf-8'
                             result = response.json()

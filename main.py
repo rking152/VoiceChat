@@ -7,7 +7,7 @@ import os
 
 def init_speeh():
     return (AipSpeech('ID', 'ID', 'ID'),AipNlp('ID', 'ID', 'ID'))
-
+  
 
 def filetotxt(file_path):
     with open(file_path, 'rb') as fp:
